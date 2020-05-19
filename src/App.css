@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: "Monoton";
+  font-size: 72px;
+  color: #c30b0bc5;
+}
